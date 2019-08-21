@@ -2,84 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daf39cf1-85e5-4ede-92f0-eba8c30b7c3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/simonerenzo-website.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-ssr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Button/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Card/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Container/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Input/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts/roboto-v18-latin-700.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts/roboto-v18-latin-700.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts/roboto-v18-latin-700.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts/roboto-v18-latin-700.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts/roboto-v18-latin-700.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts/roboto-v18-latin-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts/roboto-v18-latin-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts/roboto-v18-latin-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts/roboto-v18-latin-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts/roboto-v18-latin-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/SEO/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing/Contact/ContactForm/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing/Contact/ContactForm/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing/Contact/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing/Contact/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing/Intro/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing/Intro/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing/Projects/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing/Projects/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing/Skills/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing/Skills/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/Footer/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/Footer/social.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/Footer/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/Hamburger/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/Hamburger/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/Navbar/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/Navbar/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/NavbarLinks/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/NavbarLinks/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/Sidebar/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/Sidebar/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/_redirects" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/favicon/favicon-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/icons/fork.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/icons/github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/icons/stackoverflow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/icons/star.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/icons/telegram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/icons/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/illustrations/contact-overlay.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/illustrations/contact.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/illustrations/details.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/illustrations/dev.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/illustrations/footer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/illustrations/overlay.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/illustrations/skills.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/thumbnail/thumbnail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/landing/Projects/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/landing/Projects/index.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +29,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.reset">
+  <component name="RunManager" selected="npm.build">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -158,10 +86,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.reset" />
-        <item itemvalue="npm.start" />
-        <item itemvalue="npm.format" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.reset" />
+        <item itemvalue="npm.format" />
       </list>
     </recent_temporary>
   </component>
@@ -175,8 +103,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566395546386</updated>
-      <workItem from="1566395547780" duration="1937000" />
+      <workItem from="1566395547780" duration="3682000" />
     </task>
+    <task id="LOCAL-00001" summary="First upload">
+      <created>1566397571102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566397571102</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,5 +128,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="First upload" />
   </component>
 </project>
